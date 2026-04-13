@@ -1,4 +1,4 @@
-## contrubutions to BeamLabEU 👋
+## contributions to BeamLabEU 👋
 
 <!--
 
